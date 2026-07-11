@@ -12,6 +12,7 @@ class Solution{
                 return i;
             }
         }
+        
         return -1;
     }
 }
@@ -20,6 +21,6 @@ public class charString {
     public static void main(String[] args) {
         
         Solution s = new Solution();
-        System.out.println(s.solve("sansjana"));
+        System.out.println(s.solve("sanjana"));
     }
 }
